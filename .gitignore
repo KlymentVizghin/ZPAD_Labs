@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# System files
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Build & Virtual Environments
+bin/
+build/
+__pycache__/
+venv/
+
+# Data files
+*.txt
+*.csv
+*.json
+*.log
